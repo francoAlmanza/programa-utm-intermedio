@@ -10,7 +10,7 @@ import lombok.Setter;
 @Setter
 @NoArgsConstructor
 
-
+//gracias
 public class Cliente {
 	
 	 private int id ;
